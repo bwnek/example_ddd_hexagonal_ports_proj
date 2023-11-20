@@ -1,0 +1,3 @@
+api.controllers:
+    resource: ../src/Delegations/Ports/Api
+    type: annotation
